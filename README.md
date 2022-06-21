@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnghinguyen (Annie Nguyen)
+- 👋 Hi, I’m @mnghinguyen (Annie Nguyen) and I'm a full-time UX Designer.
 - 👀 I’m interested in creative coding and UI development.
 - 🌱 I’m currently learning front-end developing.
 - 💞️ I’m looking to collaborate on low-stress, game related projects.
