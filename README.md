@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnghinguyen (Annie Nguyen) and I'm a full-time UX Designer.
 - 👀 I’m interested in creative coding and UI development.
-- 🌱 I’m currently learning front-end developing.
+- 🌱 I’m currently learning fullstack web-development.
 - 💞️ I’m looking to collaborate on low-stress, game related projects.
 - 📫 How to reach me: www.instagram.com/anniewinn_/
 
